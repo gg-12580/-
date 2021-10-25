@@ -232,7 +232,7 @@ def creatGUI(n_paramet, r_paramet):
     sblabel.grid(row=0, column=1)
     blabel = Label(frmb, text='小学四则运算题目系统', justify=LEFT, font=("微软雅黑", 20), fg='blue')
     blabel.grid(row=0, column=0)
-    nlabel = Label(frmn, relief=RIDGE, text='班级：信息安全2班    姓名：张家维 严为炜   学号：3118005433 3118005431')
+    nlabel = Label(frmn, relief=RIDGE, text='班级：网络工程4班    姓名：郑耿桐 潘伟钲   学号：3119005397 3119005392')
     nlabel.grid(row=0, column=1)
     wlabel = Label(frmrz, textvariable=strlabel)
     wlabel.grid(row=0, column=4)
